@@ -1,0 +1,15 @@
+{
+  "repo": "blossomhill-therapeutics",
+  "feeds": [
+    {
+      "source": "https://bhtherapeutics.com/investors/",
+      "error": "TimeoutError"
+    },
+    {
+      "source": "https://bhtherapeutics.com/press-releases/",
+      "error": "TimeoutError"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-08-15T12:22:01Z"
+}
