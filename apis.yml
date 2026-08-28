@@ -9,6 +9,17 @@ description: 'BlossomHill Therapeutics is a privately held, clinical-stage bioph
   inhibitor for relapsed or refractory acute myeloid leukemia and higher-risk myelodysplastic
   syndrome. The company is a drug discovery business, not a software vendor: it publishes
   no public API, SDK, developer portal or machine-readable specification.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://bhtherapeutics.com/wp-content/uploads/logo-stacked.svg
 url: https://raw.githubusercontent.com/api-evangelist/blossomhill-therapeutics/refs/heads/main/apis.yml
 x-type: company
